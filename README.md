@@ -121,15 +121,7 @@ Example:
 
 ---
 
-## 📌 Future Plans
 
-* 🌐 Wi-Fi / ESP support
-* 📊 Device status feedback
-* 🧠 Automation rules & scenes
-* ☁️ Cloud backup
-* 🎨 UI themes
-
----
 
 ## 🤝 Contributing
 
